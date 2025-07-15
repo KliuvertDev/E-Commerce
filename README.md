@@ -33,22 +33,22 @@ Este proyecto es un sistema de comercio electrónico básico desarrollado con PH
 - Dashboard visual
 
 ## 📁 Estructura del proyecto
-/PROYECTO-FINAL
-│
-├── index.php # Página principal
-├── login.php # Inicio de sesión
-├── register.php # Registro de usuario
-├── productos.php # Catálogo de productos
-├── carrito.php # Carrito de compras
-├── checkout.php # Finalización de compra
-├── dashboard_user.php # Panel de usuario
-│
-├── /admin # Panel de administrador (opcional)
-├── /css # Estilos
-├── /js # Scripts JS
-├── /uploads # Imágenes de productos
-├── /db # Conexión y estructura base de datos
-└── /includes # Archivos comunes como encabezados, sesiones, etc.
+/E-Commerce-main <br>
+│ <br> 
+├──index.php # Página principal <br>
+├──login.php # Inicio de sesión <br>
+├──register.php # Registro de usuario <br>
+├──productos.php # Catálogo de productos <br>
+├──carrito.php # Carrito de compras <br>
+├──checkout.php # Finalización de compra <br>
+├──dashboard_user.php # Panel de usuario <br>
+│ <br>
+├──/admin # Panel de administrador (opcional) <br>
+├──/css # Estilos <br>
+├──/js # Scripts JS <br>
+├──/uploads # Imágenes de productos <br>
+├──/db # Conexión y estructura base de datos <br>
+└──/includes # Archivos comunes como encabezados, sesiones, etc. <br>
 
 
 
